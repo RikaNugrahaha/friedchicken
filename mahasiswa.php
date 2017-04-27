@@ -7,5 +7,11 @@ class mahasiswa
 	public tambah(){
 		return true;
 	}
+
+	public function liatprofil(){
+		return true;
+	}
 }
+
+
 ?>
