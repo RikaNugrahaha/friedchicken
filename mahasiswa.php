@@ -9,8 +9,9 @@ class mahasiswa
 	}
 
 
+
 	public function hapus(){
-	return true;
+	   return true;
 	}
 
 
@@ -18,10 +19,14 @@ class mahasiswa
 		return true;
 	}
 	public function gantiFoto(){
+        return true;
+    }
 
-		return true;
+	public function liatprofil(){
+        return true;
 	}
 }
+
 
 
 
